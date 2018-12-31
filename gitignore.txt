@@ -1,0 +1,1 @@
+It is used to check and remove the unwanted files as per rules.
